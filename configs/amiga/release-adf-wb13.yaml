@@ -10,6 +10,7 @@ files:
   - build/amiga-artifacts/wb13/NIO/fujinet-load-resident
   - build/amiga-artifacts/wb13/NIO/fujinet-mount
   - build/amiga-artifacts/wb13/NIO/fujinet-nio-exchange
+  - build/amiga-artifacts/wb13/NIO/fujinet-nio-baud
   - build/amiga-artifacts/wb13/NIO/fapp
   - build/amiga-artifacts/wb13/NIO/fboot
   - build/amiga-artifacts/wb13/NIO/fdrive
@@ -21,5 +22,6 @@ files:
   - build/amiga-artifacts/wb13/NIO/fout
   - build/amiga-artifacts/wb13/NIO/config-nio
   - build/amiga-artifacts/wb13/NIO/config-nio.info
+  - build/amiga-artifacts/wb13/NIO/FujiNet-Config.default
   - configs/amiga/install/Install-FujiNet-WB13
   - configs/amiga/install/MountList-FujiNet-WB13
